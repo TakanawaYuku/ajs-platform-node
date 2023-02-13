@@ -1,0 +1,19 @@
+{
+  "name": "@yukutakanawa/ajs-platform-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/TakanawaYuku/ajs-platform-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TakanawaYuku/ajs-platform-node/issues"
+  },
+  "homepage": "https://github.com/TakanawaYuku/ajs-platform-node#readme"
+}
